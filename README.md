@@ -15,3 +15,7 @@
 - **HTML;**
 - **CSS;**
 - методология web-разработки **БЭМ.**
+
+***
+
+Ссылка на проект: https://ezinber.github.io/how-to-learn/
